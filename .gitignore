@@ -7,4 +7,6 @@
 # specific directory/file ignores
 /data/
 **/*.code-workspace
+.vscode/
+config.json
 
